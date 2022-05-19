@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![saisai00's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisai00&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![saisai00's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisai00&bg_color=30,F578DC,B6CEE8&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisai00&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisai00&bg_color=30,F578DC,B6CEE8&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saisai00&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
